@@ -1,3 +1,4 @@
+/* Header section STSRT */
 header {
     max-width: 82%; margin: auto;
     margin-top: 30px;
@@ -43,7 +44,7 @@ line-height: normal;
     margin-bottom: 53px;
 }
 
-/* This-is-the-main-section */
+/* Main section START */
 main {
     max-width: 82%;
     margin: auto;
@@ -286,6 +287,7 @@ width: 140px;
 height: 140px;
 }
 
+/* BONUS SECTION */
 .bonus-section {
     display: flex;
 justify-content: center;
@@ -391,6 +393,7 @@ margin-top: 87px;
     left: 50%;
 }
 
+/* Gift section start */
 .gift-section {
     margin-top: 90px;
 }
@@ -449,6 +452,7 @@ width: 345px;
 height: 300px;
 }
 
+/* Subscribe section start */
 .subscribe-section {
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
@@ -532,6 +536,7 @@ letter-spacing: 1px;
 cursor: pointer;
 }
 
+/* Footer START */
 footer {
     background: #070211;
     margin-top: 7%;
@@ -646,3 +651,4 @@ line-height: normal;
     margin-bottom: 20px;
     margin-top: 15px;
 }
+     /* THE END */
